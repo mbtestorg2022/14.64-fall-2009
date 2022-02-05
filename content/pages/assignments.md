@@ -9,23 +9,195 @@ Assignments
 
 The solutions below are courtesy of Amanda Pallais and are used with permission.
 
-| ASSIGNMENTS | FILES | SOLUTIONS | SUPPORTING FILES |
-| --- | --- | --- | --- |
-| Review problems | ([PDF]({{< baseurl >}}/resources/mit14_64f09_psrv)) | ([PDF]({{< baseurl >}}/resources/mit14_64f09_psrv_sol)) | &nbsp; |
-| Problem set 1 | ([PDF]({{< baseurl >}}/resources/mit14_64f09_ps1)) | ([PDF]({{< baseurl >}}/resources/mit14_64f09_ps1_sol)) | &nbsp; |
-| Problem set 2 | ([PDF]({{< baseurl >}}/resources/mit14_64f09_ps2)) | ([PDF]({{< baseurl >}}/resources/mit14_64f09_ps2_sol)) |  {{< br >}}{{< br >}} marcps08.dta ([DTA]({{< baseurl >}}/resources/marcps08)) {{< br >}}{{< br >}} Variable descriptions ([PDF]({{< baseurl >}}/resources/mit14_64f09_ps2_var)) {{< br >}}{{< br >}}  |
-| Problem set 3 | ([PDF]({{< baseurl >}}/resources/mit14_64f09_ps3)) | ([PDF]({{< baseurl >}}/resources/mit14_64f09_ps3_sol)) | ps3.dta ([DTA]({{< baseurl >}}/resources/ps3)) |
-| Problem set 4 | ([PDF]({{< baseurl >}}/resources/mit14_64f09_ps4)) | ([PDF]({{< baseurl >}}/resources/mit14_64f09_ps4_sol)) |  {{< br >}}{{< br >}} ps4.dta ([DTA]({{< baseurl >}}/resources/ps4)) {{< br >}}{{< br >}} Data notes ([PDF]({{< baseurl >}}/resources/mit14_64f09_ps4_dat)) {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+FILES
+{{< thclose >}}
+{{< thopen >}}
+SOLUTIONS
+{{< thclose >}}
+{{< thopen >}}
+SUPPORTING FILES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Review problems
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit14_64f09_psrv))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit14_64f09_psrv_sol))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 1
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit14_64f09_ps1))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit14_64f09_ps1_sol))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 2
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit14_64f09_ps2))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit14_64f09_ps2_sol))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+marcps08.dta ([DTA]({{< baseurl >}}/resources/marcps08))
+
+Variable descriptions ([PDF]({{< baseurl >}}/resources/mit14_64f09_ps2_var))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 3
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit14_64f09_ps3))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit14_64f09_ps3_sol))
+{{< tdclose >}}
+{{< tdopen >}}
+ps3.dta ([DTA]({{< baseurl >}}/resources/ps3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 4
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit14_64f09_ps4))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit14_64f09_ps4_sol))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+ps4.dta ([DTA]({{< baseurl >}}/resources/ps4))
+
+Data notes ([PDF]({{< baseurl >}}/resources/mit14_64f09_ps4_dat))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Due Dates
 ---------
 
 Assignments were assigned and due according to the following schedule. Approximately 2 weeks were given for each problem set. There were a total of 26 sessions.
 
-| ASSIGNMENTS | ASSIGNED DATES | DUE DATES |
-| --- | --- | --- |
-| Review problems | Ses #1 | Ses #4 |
-| Problem set 1 | Ses #3 | Ses #7 |
-| Problem set 2 | Ses #7 | Ses #11 |
-| Problem set 3 | Ses #15 | Ses #19 |
-| Problem set 4 | Ses #19 | Ses #24
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNED DATES
+{{< thclose >}}
+{{< thopen >}}
+DUE DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Review problems
+{{< tdclose >}}
+{{< tdopen >}}
+Ses #1
+{{< tdclose >}}
+{{< tdopen >}}
+Ses #4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 1
+{{< tdclose >}}
+{{< tdopen >}}
+Ses #3
+{{< tdclose >}}
+{{< tdopen >}}
+Ses #7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 2
+{{< tdclose >}}
+{{< tdopen >}}
+Ses #7
+{{< tdclose >}}
+{{< tdopen >}}
+Ses #11
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 3
+{{< tdclose >}}
+{{< tdopen >}}
+Ses #15
+{{< tdclose >}}
+{{< tdopen >}}
+Ses #19
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 4
+{{< tdclose >}}
+{{< tdopen >}}
+Ses #19
+{{< tdclose >}}
+{{< tdopen >}}
+Ses #24
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
