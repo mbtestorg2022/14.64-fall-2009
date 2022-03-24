@@ -134,7 +134,7 @@ Ashenfelter, Orley, and Mark W. Plant. "[Nonparametric Estimates of the Labor-Su
 
 Farber, Henry S. "[Is Tomorrow Another Day? The Labor Supply of New York City Cabdrivers](http://ideas.repec.org/a/ucp/jpolec/v113y2005i1p46-82.html)." _Journal of Political Economy_ 113, no. 1 (2005): 46-82.
 
-Ashenfelter, Orley, Kirk Doran, and Bruce Schaller. "A Shred of Credible Evidence on the Long Run Elasticity of Labor Supply." Princeton University Industrial Relations Section Working Paper No. 551, September 2009. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.nber.org/papers/w15746))
+Ashenfelter, Orley, Kirk Doran, and Bruce Schaller. "A Shred of Credible Evidence on the Long Run Elasticity of Labor Supply." Princeton University Industrial Relations Section Working Paper No. 551, September 2009. ([PDF](https://www.nber.org/papers/w15746))
 
 
 {{< tdclose >}}
